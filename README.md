@@ -6,7 +6,6 @@ Python 3
 Required Python packages: requests, pandas, numpy, talib, scikit-learn, matplotlib, sqlite3, pyarrow
 Installation
 Clone the repository: git clone https://github.com/RaghavB1404/data-pipeline-ohlc-data-and-prediction-using-feature-engg.git
-Install the required packages: pip install -r requirements.txt
 Usage
 Run the main.py script.
 Follow the prompts to enter the stock symbols and choose indicators for analysis.
